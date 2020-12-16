@@ -1,0 +1,5 @@
+# プロジェクトの除外パス
+/.gradle/
+/Bulls and Cows/task/build/
+/Bulls and Cows/task/build/classes/java/main/
+/Bulls and Cows/task/build/classes/java/test/
